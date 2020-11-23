@@ -1,2 +1,2 @@
 # zipbrute
-Easy python zip bruteforce
+**Инструкция по разработке для хомяков https://overnull.ru**
